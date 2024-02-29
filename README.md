@@ -1,4 +1,3 @@
-
 ##Introduction
 Welcome to the Breast Cancer Diagnosis Using Logistic Regression project! This initiative leverages Logistic Regression to predict the likelihood of breast cancer based on clinical measurements. By analyzing key features, the model offers valuable insights that contribute to early detection, making it a significant tool in the field of medical diagnostics.
 
